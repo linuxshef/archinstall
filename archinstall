@@ -1,15 +1,14 @@
 #!/bin/bash
-#
-#  Arch Linux Install (Archinstall) v.3.0.1
-#------------------------------------------|
+#────────────────────────────────
+#  Version  : Arch Linux Install v.3.0.1
 #           :
-# Author    : LinuxShef
+#  Author   : LinuxShef
 #           :
-# Project   : https://github.com/shefpower/archinstall.git
+#  Project  : https://github.com/shefpower/archinstall.git
 #           :
-# License   : LGPL-3.0 (http://opensource.org/licenses/lgpl-3.0.html)
+#  License  : LGPL-3.0 (http://opensource.org/licenses/lgpl-3.0.html)
 #           :
-#----------------------------------------------------------------------|
+#────────────────────────────────
 clear
 echo '
 
